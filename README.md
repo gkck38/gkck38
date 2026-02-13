@@ -44,8 +44,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkck38&show_icons=true&theme=dark" alt="Emin's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkck38&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=gkck38&show_icons=true&theme=dark" alt="Emin's Stats" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=gkck38&layout=compact&theme=dark" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">

@@ -9,7 +9,6 @@
 - 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**
 - ⚙️ Solving **Algorithmic Problems** and improving **Data Structures** knowledge
 - 🌱 Currently learning **C# (Unity)**, **Blender (3D Design)**, and **Oculus SDK**
-- 📫 Reach me at: **gokcekmuhammed@gmail.com**
 
 ---
 
